@@ -1,0 +1,101 @@
+{
+    "className": "",
+
+    "style": {},
+
+    "columns": [
+        {
+            "name": "Name",
+            "field": "name",
+            "headerStyle": {},
+            "filter": true,
+            "filterType": null
+        },
+        {
+            "name": "Email",
+            "field": "email",
+            "headerStyle": {},
+            "filter": true,
+            "filterType": null
+        },
+        {
+            "name": "Phone No",
+            "field": "phone",
+            "headerStyle": {},
+            "filter": true,
+            "filterType": null
+        },
+        {
+            "name": "City",
+            "field": "city",
+            "headerStyle": {},
+            "filter": true,
+            "filterType": null
+        },
+        {
+            "name": "Country",
+            "field": "country",
+            "headerStyle": {},
+            "filter": true,
+            "filterType": null
+        },
+        {
+            "name": "Date",
+            "field": "date",
+            "headerStyle": {},
+            "filter": true,
+            "filterType": null
+        }
+    ],
+    
+    "data": [
+        {
+            "name": "Sami",
+            "email": "test@test.com",
+            "phone": "9999999999",
+            "city": "Chennai",
+            "country": "India",
+            "date": "29-11-2021"
+        },
+        {
+            "name": "Durai",
+            "email": "test@test.com",
+            "phone": "9999999999",
+            "city": "Chennai",
+            "country": "India",
+            "date": "29-11-2021"
+        },
+        {
+            "name": "Sami",
+            "email": "test@test.com",
+            "phone": "9999999999",
+            "city": "Chennai",
+            "country": "India",
+            "date": "29-11-2021"
+        },
+        {
+            "name": "Sami",
+            "email": "test@test.com",
+            "phone": "9999999999",
+            "city": "Chennai",
+            "country": "India",
+            "date": "29-11-2021"
+        },
+        {
+            "name": "Sami",
+            "email": "test@test.com",
+            "phone": "9999999999",
+            "city": "Chennai",
+            "country": "India",
+            "date": "29-11-2021"
+        },
+        {
+            "name": "Sami",
+            "email": "test@test.com",
+            "phone": "9999999999",
+            "city": "Chennai",
+            "country": "India",
+            "date": "29-11-2021"
+        }
+    ]
+}
