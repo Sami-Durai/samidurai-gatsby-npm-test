@@ -1,6 +1,6 @@
 {
   "name": "samidurai-gatsby-npm-test",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "license": "MIT",
   "main": "./src/components/sharedComponents/Table.js",
   "description": "samidurai-gatsby-npm-test for npm publish",
@@ -8,9 +8,6 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/Sami-Durai/samidurai-gatsby-npm-test.git"
-  },
-  "publishConfig": {
-    "registry":"https://npm.pkg.github.com"
   },
   "keywords": [
     "gatsby"
